@@ -39,7 +39,7 @@ export default function Navbar() {
           <img
             src="/Techno-Sky-Logo.png"
             alt="TechnoSky Solutions"
-            className={`h-9 sm:h-11 w-auto object-contain transition-all duration-300 group-hover:scale-105 ${
+            className={`h-12 sm:h-14 w-auto object-contain transition-all duration-300 group-hover:scale-105 ${
               scrolled ? "" : "brightness-0 invert"
             }`}
             width={765}
